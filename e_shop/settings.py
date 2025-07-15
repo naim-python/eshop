@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-e%wmi)@=y5@5h+=a(3tc%!xsl&hky&(_5it^-zr%9kyicy9u(g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'https://eshop-hy5p.onrender.com']
 
 
 # Application definition
